@@ -1,4 +1,4 @@
-# Autonomous Aerial Perimeter Sentinel 🛸
+# Autonomous Aerial Perimeter Sentinel 
 
 An end-to-end, stateful multi-agent system built for real-time drone telemetry analysis, automated visual perimeter sweeps, and operational SOP compliance checking. 
 
@@ -17,7 +17,7 @@ The platform uses **LangGraph** to coordinate routing, **Vision-Language Models 
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 ```text
                                   ┌───────────────────────────┐
